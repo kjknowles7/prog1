@@ -14,6 +14,7 @@ int main(int argc, const char * argv[]) {
         NSLog(@"Hello, World!");
         NSLog(@"Coding is fun!");
         NSLog(@"Now committing to GitHub!");
+        NSLog(@"Now seeing if I can auto push to GitHub.");
     }
     return 0;
 }
